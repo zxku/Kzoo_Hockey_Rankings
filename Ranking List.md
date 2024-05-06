@@ -1,7 +1,7 @@
 # Kalamazoo Adult Leauge Rankings
 **NAME** | **Rank**
 |:---|:---:|
-Zac Morhous  | 5
+Zac Morhous  | 4
 Ray Marcil  |  6
 Nick Mathews | 5
 Jake Lentz  | 6
